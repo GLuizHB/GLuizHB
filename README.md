@@ -32,5 +32,3 @@
 <img src="https://raw.githubusercontent.com/GLuizHB/GLuizHB/output/snake.svg" alt="Snake animation" />
 
 ###
-
-###
